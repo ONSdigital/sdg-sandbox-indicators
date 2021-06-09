@@ -126,9 +126,9 @@ header:
 header_language_toggle: dropdown
 hide_empty_metadata: true
 indicator_config_form:
-  enabled: false
+  enabled: true
   dropdowns: []
-  repository_link: ''
+  repository_link: 'https://onsdigital.github.io/sdg-sandbox-data/indicator-config/'
   translation_link: ''
 indicator_data_form:
   enabled: false
