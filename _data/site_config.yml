@@ -128,7 +128,7 @@ hide_empty_metadata: true
 indicator_config_form:
   enabled: true
   dropdowns: []
-  repository_link: 'https://onsdigital.github.io/sdg-sandbox-data/indicator-config/'
+  repository_link: 'https://github.com/ONSdigital/sdg-sandbox-data/tree/develop/indicator-config'
   translation_link: ''
 indicator_data_form:
   enabled: false
