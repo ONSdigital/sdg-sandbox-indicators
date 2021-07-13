@@ -13,7 +13,7 @@ baseurl: "/sdg-sandbox-indicators"
 # That's enough for the Quick Start! The remaining settings can be configured later.
 
 # Tell the Remote Theme plugin to use the Open SDG platform (Jekyll theme).
-remote_theme: open-sdg/open-sdg@mardownify-footer
+remote_theme: open-sdg/open-sdg@1.4.0-dev
 
 # Replace this title as needed.
 title: general.site_title
